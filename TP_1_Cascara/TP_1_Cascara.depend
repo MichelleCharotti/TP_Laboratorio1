@@ -12,3 +12,16 @@
 	<ctype.h>
 	"funciones.h"
 
+1504817708 source:c:\users\m.m\documents\github\tp_laboratorio1\tp_1_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"funciones.h"
+
+1504816732 c:\users\m.m\documents\github\tp_laboratorio1\tp_1_cascara\funciones.h
+
+1504816780 source:c:\users\m.m\documents\github\tp_laboratorio1\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
