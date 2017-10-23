@@ -1,0 +1,9 @@
+Listado de peliculas
+
+
+Id	Titulo	Genero	Duracion	Puntaje	Descripcion
+1	The Technicians Accion,crimen	116	9	Unos ladrones deben robar una bodega.
+2	Fashion king Comedia,drama	119	10	Un chico decide convertirse en el chico mas cool de la escuela.
+3	Secretly,Greatly Accion,drama	110	10	Un agente norcoreano se infiltra en corea del sur.
+5	PSYCHO-PASS Animacion,ciencia Fin	110	10	En un mundo futurista, queriendo saber la verdad.
+6	Clannad Animacion,drama	95	8	Cuenta la historia de unos chicos en la escuela y sus dificultades.

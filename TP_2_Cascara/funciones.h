@@ -24,8 +24,8 @@ int obtenerEspacioLibre(EPersona[],int);
  */
 int buscarPorDni(EPersona[],int,int);
 
-/** \brief Obtiene el primer incide del array.
- * \param Recibe la estructura perosna.
+/** \brief Obtiene el primer indice del array.
+ * \param Recibe la estructura persona.
  * \param Recibe el tamanio del array.
  * \return Retorna los estados en cero.
  */
